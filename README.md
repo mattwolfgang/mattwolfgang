@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
 
-**I'm a retired IT exec spending his golden years vibe coding.** I build plugins, bar widgets, and hardware tools for [Omarchy](https://omarchy.org) with AI, from the Ozarks (Jasper, Arkansas).
+**I'm a retired IT exec who now spends my time building apps and playing with local AI..** I build plugins, bar widgets, and hardware tools for [Omarchy](https://omarchy.org) with AI, from the Ozarks (Jasper, Arkansas).
 
 I'm into local LLMs, free and open-source software, and Magic: The Gathering.
 
@@ -12,7 +12,7 @@ I'm into local LLMs, free and open-source software, and Magic: The Gathering.
 | --- | --- |
 | [**omarchy-plugin-guard**](https://github.com/mattwolfgang/omarchy-plugin-guard) | Checks Omarchy plugins before you install or update them, using static checks plus a review by a local model or the Claude, Codex, or Grok CLI. [Verified on the Omarchy plugin marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.plugin-guard). |
 | [**aur-install-guard**](https://github.com/mattwolfgang/aur-install-guard) | Warns you and asks for confirmation before `yay` installs anything from the AUR. |
-| [**fixed-location**](https://github.com/mattwolfgang/fixed-location) | A Chromium/Brave extension for those of us that live in remote areas that gives websites a fixed location you set yourself. |
+| [**fixed-location**](https://github.com/mattwolfgang/fixed-location) | A Chromium/Brave extension that gives websites a fixed location you set yourself, handy for those of us in remote areas. |
 
 ## 🧩 Omarchy plugins & widgets
 
