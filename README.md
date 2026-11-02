@@ -1,8 +1,6 @@
-# Hi, I'm Matt Wolfgang
+**I'm a retired legal IT exec who now spends my time building web apps, plugins, and playing with local AI.** I build [plugins, and bar widgets](https://plugins.omarchy.org/?q=Mattwolfgang) for [Omarchy](https://omarchy.org) along with hardware tools with AI from from a holler in the Ozarks.
 
-**I'm a retired legal IT exec who now spends my time building web apps, plugins, and playing with local AI.** I build plugins, bar widgets, and hardware tools for [Omarchy](https://omarchy.org) with AI from a holler in the Ozarks.
-
-I'm into local LLMs, free and open-source software, and Magic: The Gathering.
+I'm into local LLMs, free and open-source software, and Magic: The Gathering (Pauper, Pioneer).
 
 ---
 
