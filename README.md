@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
 
-**I'm a retired IT exec who now spends my time building apps and playing with local AI..** I build plugins, bar widgets, and hardware tools for [Omarchy](https://omarchy.org) with AI, from the Ozarks (Jasper, Arkansas).
+**I'm a retired IT exec who now spends my time building apps and playing with local AI.** I build plugins, bar widgets, and hardware tools for [Omarchy](https://omarchy.org) with AI, from the Ozarks (Jasper, Arkansas).
 
 I'm into local LLMs, free and open-source software, and Magic: The Gathering.
 
