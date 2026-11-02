@@ -1,6 +1,6 @@
 # Hi, I'm Matt 👋
 
-**Retired IT exec turned vibe coder.** I build plugins, bar widgets, and hardware tools for [Omarchy](https://omarchy.org) with AI, from the Ozarks (Jasper, Arkansas).
+**I'm a retired IT exec spending his golden years vibe coding.** I build plugins, bar widgets, and hardware tools for [Omarchy](https://omarchy.org) with AI, from the Ozarks (Jasper, Arkansas).
 
 I'm into local LLMs, free and open-source software, and Magic: The Gathering.
 
@@ -12,13 +12,13 @@ I'm into local LLMs, free and open-source software, and Magic: The Gathering.
 | --- | --- |
 | [**omarchy-plugin-guard**](https://github.com/mattwolfgang/omarchy-plugin-guard) | Checks Omarchy plugins before you install or update them, using static checks plus a review by a local model or the Claude, Codex, or Grok CLI. [Verified on the Omarchy plugin marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.plugin-guard). |
 | [**aur-install-guard**](https://github.com/mattwolfgang/aur-install-guard) | Warns you and asks for confirmation before `yay` installs anything from the AUR. |
-| [**fixed-location**](https://github.com/mattwolfgang/fixed-location) | A Chromium/Brave extension that gives websites a fixed location you set yourself. |
+| [**fixed-location**](https://github.com/mattwolfgang/fixed-location) | A Chromium/Brave extension for those of us that live in remote areas that gives websites a fixed location you set yourself. |
 
 ## 🧩 Omarchy plugins & widgets
 
 | Project | What it does |
 | --- | --- |
-| [**omarchy-clock**](https://github.com/mattwolfgang/omarchy-clock) | Clock Plus: replaces Omarchy's clock and adds timers, alarms, and a stopwatch to the calendar popup. [Published on the marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.clock). |
+| [**omarchy-clock (plus)**](https://github.com/mattwolfgang/omarchy-clock) | Clock Plus: replaces Omarchy's clock and adds timers, alarms, and a stopwatch to the calendar popup. [Published on the marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.clock). |
 | [**omarchy-ambient-weather**](https://github.com/mattwolfgang/omarchy-ambient-weather) | Puts readings from an Ambient Weather station and the NWS forecast in the Omarchy bar. [Published on the marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.ambient-weather). |
 | [**simple-cliamp-bar-controls**](https://github.com/mattwolfgang/simple-cliamp-bar-controls) | Previous, play/pause, and next buttons for cliamp, with now-playing details when you hover. [Published on the marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.simple-cliamp-bar-controls). |
 | [**talkback**](https://github.com/mattwolfgang/talkback) | Choose the Piper voice that reads Claude Code's replies aloud, and turn spoken replies and Voxtype dictation on or off. |
@@ -27,7 +27,7 @@ I'm into local LLMs, free and open-source software, and Magic: The Gathering.
 
 | Project | What it does |
 | --- | --- |
-| [**omascan**](https://github.com/mattwolfgang/omascan) | A Linux terminal app for the Ricoh/Fujitsu fi-8170 network scanner that needs no vendor driver. It has presets for Letter, Legal, A4, and trading cards. |
+| [**omascan**](https://github.com/mattwolfgang/omascan) | A Linux TUI app for the Ricoh/Fujitsu fi-8170 network scanner that needs no vendor driver. It has presets for Letter, Legal, A4, and trading cards. |
 
 ## 🤝 Contributions upstream
 
