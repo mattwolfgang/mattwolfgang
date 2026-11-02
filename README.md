@@ -1,6 +1,8 @@
 **I'm a retired legal IT exec who now spends my time building web apps, plugins, and hardware tools, and playing with local AI.** My recent projects [extend Omarchy](https://plugins.omarchy.org/?q=Mattwolfgang). I live with my wife and two cats in a holler in the Arkansas Ozarks.
 
-I've been running local LLMs on my AMD Radeon AI Pro R9700, contributing to free and open-source software for the first time in my life, and playing Magic: The Gathering (Pauper, Pioneer).
+<br>
+
+I cut my teeth on TI Extended BASIC as a kid and wrote plenty of scripts and simple Python apps during my career, but AI has opened up a whole new world of software development for me. Over the last six months I've been cutting back on frontier model tokens by running local LLMs on my AMD Radeon AI Pro R9700, and I've used both to contribute to free and open-source software for the first time in my life. I've also been playing a lot of Magic: The Gathering (Pauper, Pioneer).
 
 ---
 
@@ -10,7 +12,7 @@ I've been running local LLMs on my AMD Radeon AI Pro R9700, contributing to free
 | --- | --- |
 | [**omarchy-plugin-guard**](https://github.com/mattwolfgang/omarchy-plugin-guard) | Checks Omarchy plugins before you install or update them, using static checks plus a review by a local model or the Claude, Codex, or Grok CLI. [Verified on the Omarchy plugin marketplace](https://plugins.omarchy.org/plugin.html?id=io.github.mattwolfgang.plugin-guard). |
 | [**aur-install-guard**](https://github.com/mattwolfgang/aur-install-guard) | Warns you and asks for confirmation before `yay` installs anything from the AUR. |
-| [**fixed-location**](https://github.com/mattwolfgang/fixed-location) | A Chromium/Brave extension that gives websites a fixed location you set yourself, handy for those of us in remote areas. |
+| [**fixed-location**](https://github.com/mattwolfgang/fixed-location) | A Chromium/Brave extension that gives websites a fixed location you set yourself, handy for those of us in remote areas. [Install it from the Chrome Web Store](https://chromewebstore.google.com/detail/fixed-location/dlogmffalbijbddhgamipocehkemiknc). |
 
 ## 🧩 Omarchy plugins & widgets
 
