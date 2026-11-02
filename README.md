@@ -1,6 +1,6 @@
-**I'm a retired legal IT exec who now spends my time building web apps, plugins, and playing with local AI.** I build [plugins and bar widgets](https://plugins.omarchy.org/?q=Mattwolfgang) for [Omarchy](https://omarchy.org) along with hardware tools with AI from a holler in the Ozarks.
+**I'm a retired legal IT exec who now spends my time building web apps, plugins, and hardware tools, and playing with local AI.** My recent projects [extend Omarchy](https://plugins.omarchy.org/?q=Mattwolfgang). I live with my wife and two cats in a holler in the Arkansas Ozarks.
 
-I'm into local LLMs, free and open-source software, and Magic: The Gathering (Pauper, Pioneer).
+I've been running local LLMs on my AMD Radeon AI Pro R9700, contributing to free and open-source software for the first time in my life, and playing Magic: The Gathering (Pauper, Pioneer).
 
 ---
 
@@ -8,7 +8,7 @@ I'm into local LLMs, free and open-source software, and Magic: The Gathering (Pa
 
 | Project | What it does |
 | --- | --- |
-| [**omarchy-plugin-guard**](https://github.com/mattwolfgang/omarchy-plugin-guard) | Checks Omarchy plugins before you install or update them, using static checks plus a review by a local model or the Claude, Codex, or Grok CLI. [Verified on the Omarchy plugin marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.plugin-guard). |
+| [**omarchy-plugin-guard**](https://github.com/mattwolfgang/omarchy-plugin-guard) | Checks Omarchy plugins before you install or update them, using static checks plus a review by a local model or the Claude, Codex, or Grok CLI. [Verified on the Omarchy plugin marketplace](https://plugins.omarchy.org/plugin.html?id=io.github.mattwolfgang.plugin-guard). |
 | [**aur-install-guard**](https://github.com/mattwolfgang/aur-install-guard) | Warns you and asks for confirmation before `yay` installs anything from the AUR. |
 | [**fixed-location**](https://github.com/mattwolfgang/fixed-location) | A Chromium/Brave extension that gives websites a fixed location you set yourself, handy for those of us in remote areas. |
 
@@ -16,9 +16,9 @@ I'm into local LLMs, free and open-source software, and Magic: The Gathering (Pa
 
 | Project | What it does |
 | --- | --- |
-| [**omarchy-clock (plus)**](https://github.com/mattwolfgang/omarchy-clock) | Clock Plus: replaces Omarchy's clock and adds timers, alarms, and a stopwatch to the calendar popup. [Published on the marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.clock). |
-| [**omarchy-ambient-weather**](https://github.com/mattwolfgang/omarchy-ambient-weather) | Puts readings from an Ambient Weather station and the NWS forecast in the Omarchy bar. [Published on the marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.ambient-weather). |
-| [**simple-cliamp-bar-controls**](https://github.com/mattwolfgang/simple-cliamp-bar-controls) | Previous, play/pause, and next buttons for cliamp, with now-playing details when you hover. [Published on the marketplace](https://omarchyplugins.com/plugin.html?id=io.github.mattwolfgang.simple-cliamp-bar-controls). |
+| [**omarchy-clock (plus)**](https://github.com/mattwolfgang/omarchy-clock) | Clock Plus: replaces Omarchy's clock and adds timers, alarms, and a stopwatch to the calendar popup. [Published on the marketplace](https://plugins.omarchy.org/plugin.html?id=io.github.mattwolfgang.clock). |
+| [**omarchy-ambient-weather**](https://github.com/mattwolfgang/omarchy-ambient-weather) | Puts readings from an Ambient Weather station and the NWS forecast in the Omarchy bar. [Published on the marketplace](https://plugins.omarchy.org/plugin.html?id=io.github.mattwolfgang.ambient-weather). |
+| [**simple-cliamp-bar-controls**](https://github.com/mattwolfgang/simple-cliamp-bar-controls) | Previous, play/pause, and next buttons for cliamp, with now-playing details when you hover. [Published on the marketplace](https://plugins.omarchy.org/plugin.html?id=io.github.mattwolfgang.simple-cliamp-bar-controls). |
 | [**talkback**](https://github.com/mattwolfgang/talkback) | Choose the Piper voice that reads Claude Code's replies aloud, and turn spoken replies and Voxtype dictation on or off. |
 
 ## 🖨️ Hardware
